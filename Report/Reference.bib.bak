@@ -1,0 +1,156 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@ARTICLE{Binkley,
+  author = {Binkley, David W and Gallagher, Keith Brian},
+  title = {Program slicing},
+  journal = {Advances in Computers},
+  year = {1996},
+  volume = {43},
+  pages = {1--50},
+  owner = {hp},
+  publisher = {Elsevier},
+  timestamp = {2015.01.17}
+}
+
+@ARTICLE{casalanguida2009aspect,
+  author = {Casal{\'a}nguida, H and Dur{\'a}n, JE},
+  title = {Aspect oriented navigation modeling for web applications based on
+	UML},
+  journal = {Latin America Transactions, IEEE (Revista IEEE America Latina)},
+  year = {2009},
+  volume = {7},
+  pages = {92--100},
+  number = {1},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{de2001program,
+  author = {De Lucia, Andrea},
+  title = {Program slicing: Methods and applications},
+  booktitle = {2013 IEEE 13th International Working Conference on Source Code Analysis
+	and Manipulation (SCAM)},
+  year = {2001},
+  pages = {0144--0144},
+  organization = {IEEE Computer Society}
+}
+
+@ARTICLE{horwitz1990interprocedural,
+  author = {Horwitz, Susan and Reps, Thomas and Binkley, David},
+  title = {Interprocedural slicing using dependence graphs},
+  journal = {ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  year = {1990},
+  volume = {12},
+  pages = {26--60},
+  number = {1},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{mao2009slicing,
+  author = {Mao, Chengying},
+  title = {Slicing web service-based software},
+  booktitle = {Service-Oriented Computing and Applications (SOCA), 2009 IEEE International
+	Conference on},
+  year = {2009},
+  pages = {1--8},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{masri2004detecting,
+  author = {Masri, Wes and Podgurski, Andy and Leon, David},
+  title = {Detecting and debugging insecure information flows},
+  booktitle = {Software Reliability Engineering, 2004. ISSRE 2004. 15th International
+	Symposium on},
+  year = {2004},
+  pages = {198--209},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ricca2002construction,
+  author = {Ricca, Filippo and Tonella, Paolo},
+  title = {Construction of the system dependence graph for web application slicing},
+  booktitle = {Source Code Analysis and Manipulation, 2002. Proceedings. Second
+	IEEE International Workshop on},
+  year = {2002},
+  pages = {123--132},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ricca2001web,
+  author = {Ricca, Filippo and Tonella, Paolo},
+  title = {Web application slicing},
+  booktitle = {Proceedings of the IEEE International Conference on Software Maintenance
+	(ICSM'01)},
+  year = {2001},
+  pages = {148},
+  organization = {IEEE Computer Society}
+}
+
+@ARTICLE{sahu2008slicing,
+  author = {Sahu, Madhusmita and Mohapatra, Durga Prasad},
+  title = {Slicing Java Server Pages Application},
+  year = {2008},
+  publisher = {IEEE}
+}
+
+@ARTICLE{tonella2005web,
+  author = {Tonella, Paolo and Ricca, Filippo},
+  title = {Web application slicing in presence of dynamic code generation},
+  journal = {Automated Software Engineering},
+  year = {2005},
+  volume = {12},
+  pages = {259--288},
+  number = {2},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{tsai2001scenario,
+  author = {Tsai, W-T and Bai, Xiaoying and Paul, Ray and Yu, Lian},
+  title = {Scenario-based functional regression testing},
+  booktitle = {Computer Software and Applications Conference, 2001. COMPSAC 2001.
+	25th Annual International},
+  year = {2001},
+  pages = {496--501},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{Weiser,
+  author = {Weiser, Mark},
+  title = {Program slicing},
+  booktitle = {Proceedings of the 5th international conference on Software engineering},
+  year = {1981},
+  pages = {439--449},
+  organization = {IEEE Press},
+  owner = {hp},
+  timestamp = {2015.01.17}
+}
+
+@INPROCEEDINGS{weiser1981program,
+  author = {Weiser, Mark},
+  title = {Program slicing},
+  booktitle = {Proceedings of the 5th international conference on Software engineering},
+  year = {1981},
+  pages = {439--449},
+  organization = {IEEE Press}
+}
+
+@INPROCEEDINGS{wu2004slicing,
+  author = {Wu, Junhua and Xu, Baowen and Jiang, Jixiang},
+  title = {Slicing web application based on hyper graph},
+  booktitle = {Cyberworlds, 2004 International Conference on},
+  year = {2004},
+  pages = {177--181},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{xu2003regression,
+  author = {Xu, Lei and Xu, Baowen and Chen, Zhenqiang and Jiang, Jixiang and
+	Chen, Huowang},
+  title = {Regression testing for web applications based on slicing},
+  booktitle = {Computer Software and Applications Conference, 2003. COMPSAC 2003.
+	Proceedings. 27th Annual International},
+  year = {2003},
+  pages = {652--656},
+  organization = {IEEE}
+}
+

@@ -1,0 +1,95 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@ARTICLE{Binkley,
+  author = {Binkley, David W and Gallagher, Keith Brian},
+  title = {Program slicing},
+  journal = {Advances in Computers},
+  year = {1996},
+  volume = {43},
+  pages = {1--50},
+  owner = {hp},
+  publisher = {Elsevier},
+  timestamp = {2015.01.17}
+}
+
+@ARTICLE{casalanguida2009aspect,
+  author = {Casal{\'a}nguida, H and Dur{\'a}n, JE},
+  title = {Aspect oriented navigation modeling for web applications based on
+	UML},
+  journal = {Latin America Transactions, IEEE (Revista IEEE America Latina)},
+  year = {2009},
+  volume = {7},
+  pages = {92--100},
+  number = {1},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{mao2009slicing,
+  author = {Mao, Chengying},
+  title = {Slicing web service-based software},
+  booktitle = {Service-Oriented Computing and Applications (SOCA), 2009 IEEE International
+	Conference on},
+  year = {2009},
+  pages = {1--8},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ricca2002construction,
+  author = {Ricca, Filippo and Tonella, Paolo},
+  title = {Construction of the system dependence graph for web application slicing},
+  booktitle = {Source Code Analysis and Manipulation, 2002. Proceedings. Second
+	IEEE International Workshop on},
+  year = {2002},
+  pages = {123--132},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ricca2001web,
+  author = {Ricca, Filippo and Tonella, Paolo},
+  title = {Web application slicing},
+  booktitle = {Proceedings of the IEEE International Conference on Software Maintenance
+	(ICSM'01)},
+  year = {2001},
+  pages = {148},
+  organization = {IEEE Computer Society}
+}
+
+@ARTICLE{sahu2008slicing,
+  author = {Sahu, Madhusmita and Mohapatra, Durga Prasad},
+  title = {Slicing Java Server Pages Application},
+  year = {2008},
+  publisher = {IEEE}
+}
+
+@ARTICLE{tonella2005web,
+  author = {Tonella, Paolo and Ricca, Filippo},
+  title = {Web application slicing in presence of dynamic code generation},
+  journal = {Automated Software Engineering},
+  year = {2005},
+  volume = {12},
+  pages = {259--288},
+  number = {2},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{Weiser,
+  author = {Weiser, Mark},
+  title = {Program slicing},
+  booktitle = {Proceedings of the 5th international conference on Software engineering},
+  year = {1981},
+  pages = {439--449},
+  organization = {IEEE Press},
+  owner = {hp},
+  timestamp = {2015.01.17}
+}
+
+@INPROCEEDINGS{wu2004slicing,
+  author = {Wu, Junhua and Xu, Baowen and Jiang, Jixiang},
+  title = {Slicing web application based on hyper graph},
+  booktitle = {Cyberworlds, 2004 International Conference on},
+  year = {2004},
+  pages = {177--181},
+  organization = {IEEE}
+}
+

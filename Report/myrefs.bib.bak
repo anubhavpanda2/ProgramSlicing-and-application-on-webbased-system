@@ -1,0 +1,266 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@ARTICLE{ref6,
+  author = {Alexander, Roger T and Bieman, James M and Andrews, Anneliese A},
+  title = {Towards the systematic testing of aspect-oriented programs},
+  journal = {Rapport technique, Colorado State University},
+  year = {2004}
+}
+
+@ARTICLE{ref2,
+  author = {Binkley, David W and Gallagher, Keith Brian},
+  title = {Program slicing},
+  journal = {Advances in Computers},
+  year = {1996},
+  volume = {43},
+  pages = {1--50},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{ref10,
+  author = {ter Braak, Timon},
+  title = {Extending Program Slicing in AspectOriented Programming with InterType
+	Declarations},
+  booktitle = {5th Twente Student Conference on IT},
+  year = {2006}
+}
+
+@ARTICLE{chen2001slicing,
+  author = {Chen, Zhenqiang and Xu, Baowen},
+  title = {Slicing concurrent java programs},
+  journal = {ACM Sigplan Notices},
+  year = {2001},
+  volume = {36},
+  pages = {41--47},
+  number = {4},
+  publisher = {ACM}
+}
+
+@INCOLLECTION{ref4,
+  author = {Greenwood, Phil and Bartolomei, Thiago and Figueiredo, Eduardo and
+	Dosea, Marcos and Garcia, Alessandro and Cacho, Nelio and Sant’Anna,
+	Cl{\'a}udio and Soares, Sergio and Borba, Paulo and Kulesza, Uir{\'a}
+	and others},
+  title = {On the impact of aspectual decompositions on design stability: An
+	empirical study},
+  booktitle = {ECOOP 2007--Object-Oriented Programming},
+  publisher = {Springer},
+  year = {2007},
+  pages = {176--200}
+}
+
+@INPROCEEDINGS{guangquan2008approach,
+  author = {Guangquan, Zhang and Mei, Rong},
+  title = {An Approach of Concurrent Object-Oriented Program Slicing Based on
+	LTL Property},
+  booktitle = {Computer Science and Software Engineering, 2008 International Conference
+	on},
+  year = {2008},
+  volume = {2},
+  pages = {650--653},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{guangquan2008approach,
+  author = {Guangquan, Zhang and Mei, Rong},
+  title = {An Approach of Concurrent Object-Oriented Program Slicing Based on
+	LTL Property},
+  booktitle = {Computer Science and Software Engineering, 2008 International Conference
+	on},
+  year = {2008},
+  volume = {2},
+  pages = {650--653},
+  organization = {IEEE}
+}
+
+@ARTICLE{ref11,
+  author = {Horwitz, Susan and Reps, Thomas and Binkley, David},
+  title = {Interprocedural slicing using dependence graphs},
+  journal = {ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  year = {1990},
+  volume = {12},
+  pages = {26--60},
+  number = {1},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{ref13,
+  author = {Hu, Xuelian and Zhang, Ying},
+  title = {An aspect-oriented extension to MiniJava and its implementation},
+  booktitle = {Computer Science \& Education (ICCSE), 2011 6th International Conference
+	on},
+  year = {2011},
+  pages = {1131--1135},
+  organization = {IEEE}
+}
+
+@BOOK{ref3,
+  title = {Aspect-oriented programming},
+  publisher = {Springer},
+  year = {1997},
+  author = {Kiczales, Gregor and Lamping, John and Mendhekar, Anurag and Maeda,
+	Chris and Lopes, Cristina and Loingtier, Jean-Marc and Irwin, John}
+}
+
+@ARTICLE{krinke2003context,
+  author = {Krinke, Jens},
+  title = {Context-sensitive slicing of concurrent programs},
+  journal = {ACM SIGSOFT Software Engineering Notes},
+  year = {2003},
+  volume = {28},
+  pages = {178--187},
+  number = {5},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{lallchandani2005computation,
+  author = {Lallchandani, Jaiprakash T and Mall, Rajib},
+  title = {Computation of dynamic slices for object-oriented concurrent programs},
+  booktitle = {Software Engineering Conference, 2005. APSEC'05. 12th Asia-Pacific},
+  year = {2005},
+  pages = {8--pp},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ref7,
+  author = {Larsen, Loren and Harrold, Mary Jean},
+  title = {Slicing object-oriented software},
+  booktitle = {Software Engineering, 1996., Proceedings of the 18th International
+	Conference on},
+  year = {1996},
+  pages = {495--505},
+  organization = {IEEE}
+}
+
+@ARTICLE{mund2002efficient,
+  author = {Mund, GB and Mall, Rajib and Sarkar, Sudeshna},
+  title = {An efficient dynamic program slicing technique},
+  journal = {Information and Software Technology},
+  year = {2002},
+  volume = {44},
+  pages = {123--132},
+  number = {2},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{nanda2000slicing,
+  author = {Nanda, Mangala Gowri and Ramesh, S},
+  title = {Slicing concurrent programs},
+  journal = {ACM SIGSOFT Software Engineering Notes},
+  year = {2000},
+  volume = {25},
+  pages = {180--190},
+  number = {5},
+  publisher = {ACM}
+}
+
+@ARTICLE{ranganath2007slicing,
+  author = {Ranganath, Venkatesh Prasad and Hatcliff, John},
+  title = {Slicing concurrent Java programs using Indus and Kaveri},
+  journal = {International Journal on Software Tools for Technology Transfer},
+  year = {2007},
+  volume = {9},
+  pages = {489--504},
+  number = {5-6},
+  publisher = {Springer}
+}
+
+@ARTICLE{ref14,
+  author = {S.R.Raheman, A. Ray and S. Pradhan},
+  title = {Dynamic Slicing of Aspect Oriented Programs using AODG},
+  journal = {International Journal of Computer Science and Information Security},
+  year = {2011},
+  volume = {Vol-9(4)},
+  pages = {123-126},
+  owner = {hp},
+  timestamp = {2014.01.27}
+}
+
+@INPROCEEDINGS{ref12,
+  author = {Sahu, Madhusmita and Mohapatra, Durga Prasad},
+  title = {A Node-Marking Technique for Dynamic Slicing of Aspect-Oriented Programs},
+  booktitle = {Information Technology,(ICIT 2007). 10th International Conference
+	on},
+  year = {2007},
+  pages = {155--160},
+  organization = {IEEE}
+}
+
+@BOOK{schildt2000java,
+  title = {Java 2: the complete reference},
+  publisher = {McGraw-Hill Professional},
+  year = {2000},
+  author = {Schildt, Herbert}
+}
+
+@INPROCEEDINGS{singh2013unique,
+  author = {Singh, Jagannath and Mohapatra, Durga Prasad},
+  title = {A unique aspect-oriented program slicing technique},
+  booktitle = {Advances in Computing, Communications and Informatics (ICACCI), 2013
+	International Conference on},
+  year = {2013},
+  pages = {159--164},
+  organization = {IEEE}
+}
+
+@ARTICLE{ref5,
+  author = {Viega, John and Vuas, J},
+  title = {Can aspect-oriented programming lead to more reliable software?},
+  journal = {Software, IEEE},
+  year = {2000},
+  volume = {17},
+  pages = {19--21},
+  number = {6},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{walkinshaw2003java,
+  author = {Walkinshaw, Neil and Roper, Marc and Wood, Murray},
+  title = {The Java system dependence graph},
+  booktitle = {Source Code Analysis and Manipulation, 2003. Proceedings. Third IEEE
+	International Workshop on},
+  year = {2003},
+  pages = {55--64},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ref1,
+  author = {Weiser, Mark},
+  title = {Program slicing},
+  booktitle = {Proceedings of the 5th international conference on Software engineering},
+  year = {1981},
+  pages = {439--449},
+  organization = {IEEE Press}
+}
+
+@INPROCEEDINGS{zhang2003precise,
+  author = {Zhang, Xiangyu and Gupta, Rajiv and Zhang, Youtao},
+  title = {Precise dynamic slicing algorithms},
+  booktitle = {Software Engineering, 2003. Proceedings. 25th International Conference
+	on},
+  year = {2003},
+  pages = {319--329},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ref9,
+  author = {Zhao, Jianjun},
+  title = {Slicing aspect-oriented software},
+  booktitle = {Program Comprehension, 2002. Proceedings. 10th International Workshop
+	on},
+  year = {2002},
+  pages = {251--260},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{zhao1999slicing,
+  author = {Zhao, Jianjun},
+  title = {Slicing concurrent Java programs},
+  booktitle = {Program Comprehension, 1999. Proceedings. Seventh International Workshop
+	on},
+  year = {1999},
+  pages = {126--133},
+  organization = {IEEE}
+}
+

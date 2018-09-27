@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{tsai2001scenario}
+W.~Tsai, Xiaoying Bai, Ray Paul, and Lian Yu.
+\newblock Scenario-based functional regression testing.
+\newblock In {\em Computer Software and Applications Conference, 2001. COMPSAC
+  2001. 25th Annual International}, pages 496--501. IEEE, 2001.
+
+\bibitem{masri2004detecting}
+Wes Masri, Andy Podgurski, and David Leon.
+\newblock Detecting and debugging insecure information flows.
+\newblock In {\em Software Reliability Engineering, 2004. ISSRE 2004. 15th
+  International Symposium on}, pages 198--209. IEEE, 2004.
+
+\bibitem{xu2003regression}
+Lei Xu, Baowen Xu, Zhenqiang Chen, Jixiang Jiang, and Huowang Chen.
+\newblock Regression testing for web applications based on slicing.
+\newblock In {\em Computer Software and Applications Conference, 2003. COMPSAC
+  2003. Proceedings. 27th Annual International}, pages 652--656. IEEE, 2003.
+
+\bibitem{wu2004slicing}
+Junhua Wu, Baowen Xu, and Jixiang Jiang.
+\newblock Slicing web application based on hyper graph.
+\newblock In {\em Cyberworlds, 2004 International Conference on}, pages
+  177--181. IEEE, 2004.
+
+\bibitem{Weiser}
+Mark Weiser.
+\newblock Program slicing.
+\newblock In {\em Proceedings of the 5th international conference on Software
+  engineering}, pages 439--449. IEEE Press, 1981.
+
+\bibitem{weiser1981program}
+Mark Weiser.
+\newblock Program slicing.
+\newblock In {\em Proceedings of the 5th international conference on Software
+  engineering}, pages 439--449. IEEE Press, 1981.
+
+\bibitem{ricca2001web}
+Filippo Ricca and Paolo Tonella.
+\newblock Web application slicing.
+\newblock In {\em Proceedings of the IEEE International Conference on Software
+  Maintenance (ICSM'01)}, page 148. IEEE Computer Society, 2001.
+
+\bibitem{mao2009slicing}
+Chengying Mao.
+\newblock Slicing web service-based software.
+\newblock In {\em Service-Oriented Computing and Applications (SOCA), 2009 IEEE
+  International Conference on}, pages 1--8. IEEE, 2009.
+
+\bibitem{Binkley}
+David~W Binkley and Keith~Brian Gallagher.
+\newblock Program slicing.
+\newblock {\em Advances in Computers}, 43:1--50, 1996.
+
+\bibitem{de2001program}
+Andrea De~Lucia.
+\newblock Program slicing: Methods and applications.
+\newblock In {\em 2013 IEEE 13th International Working Conference on Source
+  Code Analysis and Manipulation (SCAM)}, pages 0144--0144. IEEE Computer
+  Society, 2001.
+
+\bibitem{tonella2005web}
+Paolo Tonella and Filippo Ricca.
+\newblock Web application slicing in presence of dynamic code generation.
+\newblock {\em Automated Software Engineering}, 12(2):259--288, 2005.
+
+\bibitem{ricca2002construction}
+Filippo Ricca and Paolo Tonella.
+\newblock Construction of the system dependence graph for web application
+  slicing.
+\newblock In {\em Source Code Analysis and Manipulation, 2002. Proceedings.
+  Second IEEE International Workshop on}, pages 123--132. IEEE, 2002.
+
+\bibitem{sahu2008slicing}
+Madhusmita Sahu and Durga~Prasad Mohapatra.
+\newblock Slicing java server pages application.
+\newblock 2008.
+
+\bibitem{casalanguida2009aspect}
+H~Casal{\'a}nguida and JE~Dur{\'a}n.
+\newblock Aspect oriented navigation modeling for web applications based on
+  uml.
+\newblock {\em Latin America Transactions, IEEE (Revista IEEE America Latina)},
+  7(1):92--100, 2009.
+
+\bibitem{horwitz1990interprocedural}
+Susan Horwitz, Thomas Reps, and David Binkley.
+\newblock Interprocedural slicing using dependence graphs.
+\newblock {\em ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  12(1):26--60, 1990.
+
+\end{thebibliography}

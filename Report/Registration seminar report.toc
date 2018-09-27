@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Basic concepts}{2}
+\contentsline {subsection}{\numberline {2.1}Web Slicing}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Slicing Criterion}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Types of Slicing}{2}
+\contentsline {subsection}{\numberline {2.2}System Dependence Graph}{2}
+\contentsline {subsubsection}{\numberline {2.2.1}Control Dependence}{2}
+\contentsline {subsubsection}{\numberline {2.2.2}Data Dependence}{3}
+\contentsline {subsubsection}{\numberline {2.2.3}Call Dependence}{3}
+\contentsline {subsubsection}{\numberline {2.2.4}Parameter - In}{3}
+\contentsline {subsubsection}{\numberline {2.2.5}Parameter - Out}{3}
+\contentsline {subsubsection}{\numberline {2.2.6}Summary Edge}{3}
+\contentsline {subsection}{\numberline {2.3}Web Application Dependence Graph}{3}
+\contentsline {subsubsection}{\numberline {2.3.1}Event Loop}{3}
+\contentsline {subsubsection}{\numberline {2.3.2}PageCall Dependence}{3}
+\contentsline {subsubsection}{\numberline {2.3.3}Build Dependence}{3}
+\contentsline {section}{\numberline {3}Related Works}{5}
+\contentsline {subsection}{\numberline {3.1}Slicing of Web Applications}{5}
+\contentsline {section}{\numberline {4}Motivation}{5}
+\contentsline {section}{\numberline {5}Objective}{5}
+\contentsline {section}{\numberline {6}Proposed WADG For Web Application}{5}
+\contentsline {subsection}{\numberline {6.1}WADG Generation}{6}
+\contentsline {subsection}{\numberline {6.2}WADG for dynamic code}{6}
+\contentsline {subsubsection}{\numberline {6.2.1}Code Extrusion}{6}
+\contentsline {subsubsection}{\numberline {6.2.2}String-Cat Propagation}{6}
+\contentsline {subsubsection}{\numberline {6.2.3}Flow Information}{6}
+\contentsline {section}{\numberline {7}Slicing Algorithm}{12}
+\contentsline {section}{\numberline {8}Experimental Study}{12}
+\contentsline {subsection}{\numberline {8.1}Experimental Setup}{12}
+\contentsline {subsection}{\numberline {8.2}Case Study}{15}
+\contentsline {subsection}{\numberline {8.3}Findings}{15}
+\contentsline {section}{\numberline {9}Conclusion \& Future Work}{15}
